@@ -15,6 +15,7 @@ connection.connect(function(error){
     }
 })
 
+/*
 let registro = {name: 'Cesar', apellido: 'Dominguez'};
 let sqlINSERT = 'INSERT INTO registro SET ?';
 connection.query(sqlINSERT, registro, function(error, result){
@@ -22,6 +23,7 @@ connection.query(sqlINSERT, registro, function(error, result){
         throw error;
     }
 });
+*/
 
 let sql = 'SELECT * FROM registro';
 connection.query(sql, function(error, result){
