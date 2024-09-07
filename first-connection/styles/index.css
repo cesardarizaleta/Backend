@@ -54,3 +54,12 @@ main form button {
     font-size: 1em;
     font-weight: bold;
 }
+
+main form a {
+    text-align: center;
+    text-decoration: none;
+    color: darkcyan;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+}

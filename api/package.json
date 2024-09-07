@@ -1,15 +1,16 @@
 {
-  "name": "first-connection",
+  "name": "api",
   "version": "1.0.0",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
-    "test": "cd js && node conexion.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "mysql": "^2.18.1"
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
   }
 }
