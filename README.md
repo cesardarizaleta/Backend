@@ -3,7 +3,7 @@
 
 ---
 
-### Technologies  
+## Technologies  
 <div align="center">
   <img width="10%" src="https://static-00.iconduck.com/assets.00/mysql-icon-512x503-n9f1krus.png">
   <img width="10%" src="https://res.cloudinary.com/fazt/image/upload/c_scale,w_50/v1565481643/icons/nodejs.svg">
